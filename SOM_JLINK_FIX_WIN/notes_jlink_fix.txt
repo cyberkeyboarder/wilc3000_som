@@ -1,0 +1,17 @@
+
+* //////////////////////////////////////////////////////////////////////////////
+* JLINK "fix" for SOM boards
+*	- DLL Version v6.33i, July 2018
+*	- SEGGER J-Link Commander V6.33i
+*	- Firwmare: J-Link Ob-SAM3U128 V3 
+*	- Hardware version: V3.00
+* //////////////////////////////////////////////////////////////////////////////
+
+o 	If you experience issues interfacing w/ the SOM board, update your SOM
+	board.
+
+o	"JLink.exe"	- run on WIN (only) to update SOM board.
+
+o	old symptoms show user cannot type in terminal during/after boot.
+
+
