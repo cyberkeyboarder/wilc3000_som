@@ -1,9 +1,9 @@
 # **build_wilc3000-sd.sh**
 
-[comment]: <> (Badges --> https://shields.io/#/)
-[comment]: <> (Markdown --> https://github.com/DavidAnson/markdownlint)
-[comment]: <> (Table generator: https://www.tablesgenerator.com/markdown_tables#)
-[comment]: <> (Markdown --> https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis)
+<!-- [comment]: <> (Badges -> https://shields.io/#/) -->
+<!-- [comment]: <> (Markdown: https://github.com/DavidAnson/markdownlint) -->
+<!-- [comment]: <> (Table generator: https://www.tablesgenerator.com/markdown_tables#) -->
+<!-- [comment]: <> (Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis) -->
 
 [![npm version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
@@ -17,10 +17,10 @@
 * [Buildroot](https://buildroot.org/)
 * [How_to_build_Buildroot_for_AT91](http://www.at91.com/linux4sam/bin/view/Linux4SAM/BuildRootBuild#How_to_build_Buildroot_for_AT91)
 
-[comment]: <> (Badges --> https://shields.io/#/)
-[comment]: <> (Markdown --> https://github.com/DavidAnson/markdownlint)
-[comment]: <> (Table generator: https://www.tablesgenerator.com/markdown_tables#)
-[comment]: <> (Markdown --> https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis)
+<!-- [comment]: <> (Badges: https://shields.io/#/) -->
+<!-- [comment]: <> (Markdown: https://github.com/DavidAnson/markdownlint) -->
+<!-- [comment]: <> (Table generator: https://www.tablesgenerator.com/markdown_tables#) -->
+<!-- [comment]: <> (Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis) -->
 
 ## LICENSE
 
@@ -42,13 +42,13 @@
 
 [SAMA5D27-SOM1-EK1](https://www.microchip.com/developmenttools/ProductDetails/ATSAMA5D27-SOM1-EK1)
 
-[comment]: <> (Combined image/link)
+<!-- [comment]: <> (Combined image/link) -->
 
 [![SAMA5D27-SOM1-EK1](imgs/som-ek.png)](https://www.microchip.com/developmenttools/ProductDetails/ATSAMA5D27-SOM1-EK1)
 
 [WILC3000-SD](https://www.microchip.com/developmenttools/ProductDetails/PartNO/AC164158)
 
-[comment]: <> (Combined image/link)
+<!-- [comment]: <> (Combined image/link) -->
 
 [![WILC3000-SD](imgs/wilc3000-sd.jpg)](https://www.microchip.com/developmenttools/ProductDetails/PartNO/AC164158)
 
@@ -86,7 +86,7 @@ Etcher is only a suggestion.
 
 > Download, install and use [Etcher](https://www.balena.io/etcher/) to Flash the uSD Card.
 
-[comment]: <> (For line breaks, with HTML tags, put two-spaces @ the end of the line)
+<!-- [comment]: <> (For line breaks, with HTML tags, put two-spaces @ the end of the line) -->
 ***Notes:***
 
 * `Resin.io` (original Etcher) changes name to `Balena`, releases open-source Oct 2018
@@ -213,9 +213,9 @@ Follow the directions found in this folder (WINDOWS executable):
 [mchp-image]: https://img.shields.io/badge/license-microchip-brightgreen.svg
 [mchp-url]: #100
 
-[comment]: <> (https://www.microchip.com/mplab/microchip-libraries-for-applications/mla-license)
+<!-- [comment]: <> (https://www.microchip.com/mplab/microchip-libraries-for-applications/mla-license) -->
 
-[comment]: <> (from Leo Zhang's README.md)
+<!-- [comment]: <> (from Leo Zhang's README.md) -->
 [1]: https://buildroot.org/downloads/manual/manual.html#outside-br-custom
 [2]: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 [3]: https://buildroot.org/docs.html
