@@ -115,10 +115,10 @@ ls -ls /dev/ttyS* /dev/ttyU*
 
 #### `Prep 2 of 3`
 
-Add *`username`* to **dialout group** to enable serial port access:
+Add *`$USER`* to **dialout group** to enable serial port access:
 
 ```bash
-sudo username -a -G dialout username
+sudo adduser $USER dialout
 ```
 
 #### `Prep 3 of 3`
@@ -126,7 +126,7 @@ sudo username -a -G dialout username
 Ensure `user` belongs to `dialout`
 
 ```bash
-groups username
+groups $USER
 ```
 
 > `username` : `username` adm `dialout` cdrom sudo dip plugdev fuse lpadmin sambashare
